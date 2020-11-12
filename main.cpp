@@ -46,12 +46,14 @@ bool intersect(point fixed, point final, point a, point b) {
 }
 
 int main() {
-//    ios_base::sync_with_stdio(false), cin.tie(nullptr);
     bool cnt = 0;
+    cout<<"Enter coordinates of the point: \n";
     cin>>fix.x>>fix.y;
     fin.x = fix.x, fin.y = fix.y;
+    cout<<"Enter number of points: \n";
     cin>>n;
     for(int i=0;i<n;++i){
+        cout<<"Enter coordinates for point point number "<<(i+1)<<' ';
         cin>>collection[i].x>>collection[i].y;
         fin.x = max(collection[i].x, fin.x);
     }
