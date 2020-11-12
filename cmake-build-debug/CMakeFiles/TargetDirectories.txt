@@ -1,0 +1,3 @@
+C:/Users/Vankata/CLionProjects/Is a Fixed Point in a Polygon/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Vankata/CLionProjects/Is a Fixed Point in a Polygon/cmake-build-debug/CMakeFiles/Is_a_Fixed_Point_in_a_Polygon.dir
+C:/Users/Vankata/CLionProjects/Is a Fixed Point in a Polygon/cmake-build-debug/CMakeFiles/rebuild_cache.dir
