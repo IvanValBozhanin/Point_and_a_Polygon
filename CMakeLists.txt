@@ -3,4 +3,4 @@ project(Is_a_Fixed_Point_in_a_Polygon)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Is_a_Fixed_Point_in_a_Polygon main.cpp)
+add_executable(Is_a_Fixed_Point_in_a_Polygon src/main.cpp)
